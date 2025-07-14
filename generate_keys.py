@@ -7,8 +7,7 @@ import streamlit_authenticator as stauth
 
 names = ["Admin", "Guillermo Anhuaman", "Aldo Urata", "Sayuri Mattos"]
 usernames = ["admin","guillermo_201", "aldo_101", "sayuri_301"]
-passwords = ["abc123", "guille201", "aldo101", "sayuri301"]
-#passwords = ["xxx", "xxx", "xxx", "xxx"]
+passwords = ["xxx", "xxx", "xxx", "xxx"]
 
 # 2. Hash each password
 
