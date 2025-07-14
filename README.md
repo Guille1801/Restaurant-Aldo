@@ -1,6 +1,6 @@
 # Mini Restaurant App
 
-This project was created in order to improve my skills in Python and SQL. This app can register orders, analyzesells and manage staff smoothly.
+This project was created to improve my skills in Python and SQL. This app can register orders, analyze sales, and manage staff smoothly.
 
 ## Tools and Technologies
 
