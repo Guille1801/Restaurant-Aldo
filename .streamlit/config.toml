@@ -1,0 +1,15 @@
+[theme]
+# Color principal para elementos interactivos como widgets
+primaryColor="#D21034"
+
+# Color de fondo principal
+backgroundColor="#FFFFFF"
+
+# Color de fondo para la barra lateral y otros elementos secundarios
+secondaryBackgroundColor="FFA07A"
+
+# Color del texto
+textColor="#1A1A1A"
+
+# Fuente
+font="sans serif"
